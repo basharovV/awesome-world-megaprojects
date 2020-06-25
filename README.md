@@ -1,6 +1,6 @@
 # ⚛ Awesome World Megaprojects
 
-**A list of projects around the world that mark a technological achievement for civilization.** These projects are long, expensive, and highly complex, usually made possible by multiple institutions or countries working together. 
+> **A list of projects around the world that mark a technological achievement for civilization.** These projects are long, expensive, and highly complex, usually made possible by multiple institutions or countries working together. 
 
 #### 🧠 Reality check
 We live in the [Information Era](https://civilization.fandom.com/wiki/Information_Era_(Civ6)), and as we transition to the next era of civilization (hey there singularity), it's important to be able to put a spotlight on those milestones that brought us to the future. The leaps in infrastructure, scientific discoveries, technological breakthroughs, etc. 
@@ -15,7 +15,7 @@ That's why I decided to make this list and keep tracking the progress of these o
 
 
 # The list
-(In no particular order)
+<small>(In no particular order)</small>
 
 ## [High Luminosity Large Hadron Collider (HL-LHC)](https://home.cern/science/accelerators/high-luminosity-lhc)
 
@@ -45,7 +45,10 @@ Total cost: [**$153 million**](https://www.nsf.gov/about/budget/fy2021/pdf/34d_f
 
 `nuclear fusion` `reactor` `energy` `ignition` `power`
  
-Being built in the south of France, ITER is a the biggest fusion reactor ever built, designed to prove the scientific and commercial viability of fusion as an energy source. The machine is expected to reach multiple milestones at once. With a gain factor of Q=10, it will achieve **_breakeven_** _(where gain factor Q=1, more power released than supplied)_, as well as **_ignition_**, where the machine can **supply it's own power from self-heating** _(occurs at Q=5)_. Unlimited, safe and clean energy? Yes please. 
+
+<img align="right" width=200 src="https://www.iter.org/img/resize-300-90/www/content/com/Lists/WebText_2014/Attachments/233/video_ornl_2.jpg" /> 
+
+Being built in the south of France, ITER is the biggest fusion reactor ever built, designed to prove the scientific and commercial viability of fusion as an energy source. The machine is expected to reach multiple milestones at once. With a gain factor of Q=10, it will achieve **_breakeven_** _(where gain factor Q=1, more power released than supplied)_, as well as **_ignition_**, where the machine can **supply it's own power from self-heating** _(occurs at Q=5)_. Unlimited, safe and clean energy? Yes please. 
 
 #### Facts
 ☞ ITER is a collaboration between China, the EU, Switzerland, India, Japan, Korea, Russia and the United States </br>
@@ -61,3 +64,4 @@ Estimated completion: [**December 2025**](https://www.iter.org/faq#collapsible_7
 Total cost: [**~$20 billion**](https://www.iter.org/faq#collapsible_5)
 
 ----
+
