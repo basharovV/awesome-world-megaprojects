@@ -14,7 +14,8 @@ A description of a few lines that explains the project and its context, with a n
 Field: **Insert** • 
 Type: **Insert** • 
 Org: **Insert** •
-Project lead: [**Name here**](https://home.cern/authors/lucio-rossi) • 
-Estimated completion: **Insert date here**
+Project lead: [**Name here**](linktobio) • 
+Estimated completion: [**Insert date here**](source)  • 
+Total cost: [**Insert $$$ here**](source)
 
 ----
